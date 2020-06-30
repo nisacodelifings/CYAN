@@ -1,5 +1,5 @@
 {
-  "name": "Annisa Puspitasari",
+  "name": "",
   "short_name": "Nisa's Portfolios",
   "icons": [{
     "src": "icons/flower.png",
@@ -27,6 +27,6 @@
   "start_url": "/index.html",
   "gcm_sender_id": "103953800507",
   "display": "standalone",
-  "background_color": "cyan",
-  "theme_color": "blue"
+  "background_color": "blue",
+  "theme_color": ""
 }
